@@ -1,0 +1,12 @@
+{
+  "lenCSeq":[3],
+
+  "Type_grammar":[0],
+
+  "listNbSequences" : [10],
+
+  "listSizeSequences" : [10],
+  "debug": [1],
+  "comment": ["parameter file for the simple rebers's grammar : parameter listSizeSequences and lenCSeq not useful here"]
+
+  }

@@ -1,0 +1,15 @@
+{
+
+  "lenCSeq":[3],
+
+  "Type_grammar":[4],
+
+  "listNbSequences" : [100000],
+
+  "listSizeSequences" : [10],
+
+  "debug": [0],
+
+  "comment": ["parameter file for the Embedded rebers's grammar : parameter listSizeSequences and lenCSeq not usefull here"]
+
+}

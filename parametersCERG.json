@@ -1,0 +1,14 @@
+{
+  "lenCSeq":[3],
+
+  "Type_grammar":[2],
+
+  "listNbSequences" : [20000],
+
+  "listSizeSequences" : [100000],
+
+
+  "debug": [0],
+  "comment": ["parameter file for the continious and embedded rebers's grammar : parameter listSizeSequences set the size of the stream (lenCSeq not usefull here) "]
+
+}
