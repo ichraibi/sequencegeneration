@@ -1,6 +1,6 @@
 # README #
 
-* Please look at the file "grammar.pdf" first to knwo what the grammar that are take into account here
+* Please look at the file "grammar.pdf" first to know what are the grammars used here
 
 ### What is this repository for? ###
 
